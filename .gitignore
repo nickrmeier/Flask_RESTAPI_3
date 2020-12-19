@@ -1,0 +1,4 @@
+/venv
+/code/__pycache__
+/code/data.db
+/code/secret.py
